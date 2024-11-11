@@ -17,7 +17,7 @@
 
 *label2
 
-[bg storage=anger.jpg]
+[bg storage=angser.jpg]
 
 メロスは激怒した。[l][r]
 
