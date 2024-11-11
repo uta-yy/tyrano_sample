@@ -1,12 +1,14 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="走ってくれメロス"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
 「走るか寝るかするメロス」[l][r]
-
+[link target=*tag_sleep] →寝る [endlink][r]
+[link target=*tag_run] →走る [endlink][r]
+[s]
 メロスは激怒した。[l][r]
 
 必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
