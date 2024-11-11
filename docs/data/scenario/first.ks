@@ -48,7 +48,7 @@
 「おおメロスよ。死んでしまうとは情けない。[r]
 　其方にもう一度機会を与えよう。再びこのようなことのないようにな。では行け。」[r]
 
-[limk target=*tag_retry] →やり直す [endlink][r]
+[link target=*tag_retry] →やり直す [endlink][r]
 [link target=*tag_refuse] →もう疲れたよ　[endlink][r]
 
 *tag_retrty
@@ -87,4 +87,4 @@
 メロスは走った。走りに走り続けて疲れた。[r]
 何よりこの痛苦の果てに待ち受けるのが自分の死というのが信じられなかった。[r]
 
-[jumnp target=*label2]
+[jump target=*label2]
