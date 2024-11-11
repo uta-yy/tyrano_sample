@@ -23,7 +23,7 @@
 
 必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
 
-そう思うことでしか自分を正当化できなかったのだ。
+そう思うことでしか自分を正当化できなかったのだ。[l]
 
 [cm]
 
@@ -34,11 +34,9 @@
 
 [bg storage=badend.jpg]
 
-[jump target=*start]
+[cm]
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
-[s]
+[jump target=*start]
 
 *tag_sleep
 
