@@ -17,7 +17,7 @@
 
 *label2
 
-[bg storage=angser.jpg]
+[bg storage=anger.jpg]
 
 メロスは激怒した。[l][r]
 
@@ -32,7 +32,7 @@
 ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
 メロスは走ることをやめた。[l][r]
 
-[bg storage=BAD END]
+[bg storage=badend.jpg]
 
 [jump target=*start]
 
@@ -89,8 +89,8 @@
 
 [bg storage=run.jpg time=500]
 
-メロスは走った。雨の日も、風の日も決して立ち止まることなく[l]。[r]
-しかし、ふと。思った。思ってしまったのだ。[r]
+メロスは走った。雨の日も、風の日も決して立ち止まることなく。[l][r]
+しかし、ふと。思った。思ってしまったのだ。[l][r]
 どうしてこんな苦労をして自殺をしなければならないのだと。[l][r]
 
 [jump target=*label2]
