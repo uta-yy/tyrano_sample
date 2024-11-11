@@ -54,8 +54,6 @@
 「おおメロスよ。死んでしまうとは情けない。[l][r]
 　其方にもう一度機会を与えよう。再びこのようなことのないようにな。では行け。」[l][r]
 
-[link target=*tag_retry] →やり直す [endlink][r]
-[link target=*tag_refuse] →もう疲れたよ　[endlink][r]
 
 *tag_retry
 
